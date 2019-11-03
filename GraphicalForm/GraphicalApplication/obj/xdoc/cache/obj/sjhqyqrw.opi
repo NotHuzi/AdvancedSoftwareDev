@@ -1,0 +1,10 @@
+id: GraphicalProgrammingLanguage
+language: CSharp
+name:
+  Default: GraphicalProgrammingLanguage
+qualifiedName:
+  Default: GraphicalProgrammingLanguage
+type: Assembly
+modifiers: {}
+items: []
+references: {}

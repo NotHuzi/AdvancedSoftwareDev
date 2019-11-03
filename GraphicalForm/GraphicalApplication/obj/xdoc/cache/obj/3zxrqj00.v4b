@@ -1,0 +1,10 @@
+id: GraphicalApplication
+language: CSharp
+name:
+  Default: GraphicalApplication
+qualifiedName:
+  Default: GraphicalApplication
+type: Assembly
+modifiers: {}
+items: []
+references: {}

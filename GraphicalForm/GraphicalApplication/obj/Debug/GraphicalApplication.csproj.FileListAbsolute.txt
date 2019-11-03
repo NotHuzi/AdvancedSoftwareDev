@@ -1,0 +1,8 @@
+C:\Users\Hubert\Desktop\GraphicalProgrammingLanguage-master\GraphicalProgrammingLanguage\bin\Debug\GraphicalApplication.exe.config
+C:\Users\Hubert\Desktop\GraphicalProgrammingLanguage-master\GraphicalProgrammingLanguage\bin\Debug\GraphicalApplication.exe
+C:\Users\Hubert\Desktop\GraphicalProgrammingLanguage-master\GraphicalProgrammingLanguage\bin\Debug\GraphicalApplication.pdb
+C:\Users\Hubert\Desktop\GraphicalProgrammingLanguage-master\GraphicalProgrammingLanguage\obj\Debug\GraphicalApplication.csprojAssemblyReference.cache
+C:\Users\Hubert\Desktop\GraphicalProgrammingLanguage-master\GraphicalProgrammingLanguage\obj\Debug\GraphicalProgrammingLanguage.GraphicalProgrammingLanguageForm.resources
+C:\Users\Hubert\Desktop\GraphicalProgrammingLanguage-master\GraphicalProgrammingLanguage\obj\Debug\GraphicalApplication.csproj.GenerateResource.cache
+C:\Users\Hubert\Desktop\GraphicalProgrammingLanguage-master\GraphicalProgrammingLanguage\obj\Debug\GraphicalApplication.exe
+C:\Users\Hubert\Desktop\GraphicalProgrammingLanguage-master\GraphicalProgrammingLanguage\obj\Debug\GraphicalApplication.pdb
