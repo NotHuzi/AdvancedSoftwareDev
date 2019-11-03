@@ -1,0 +1,4 @@
+C:\Users\Hubert\Desktop\AssignmentPart1\GraphicalForm\GraphicalForm\obj\Debug\GraphicalForm.csprojAssemblyReference.cache
+C:\Users\Hubert\Desktop\AssignmentPart1\GraphicalForm\GraphicalForm\obj\Debug\GraphicalForm.Form1.resources
+C:\Users\Hubert\Desktop\AssignmentPart1\GraphicalForm\GraphicalForm\obj\Debug\GraphicalForm.Properties.Resources.resources
+C:\Users\Hubert\Desktop\AssignmentPart1\GraphicalForm\GraphicalForm\obj\Debug\GraphicalForm.csproj.GenerateResource.cache
